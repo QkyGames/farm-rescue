@@ -4644,6 +4644,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Touch.Exps.X,
 		C3.Plugins.Touch.Exps.Y,
 		C3.Plugins.Mouse.Cnds.OnClick,
+		C3.Plugins.Sprite.Cnds.IsVisible,
 		C3.Plugins.Sprite.Acts.SetSize,
 		C3.Behaviors.Bullet.Acts.SetEnabled,
 		C3.Plugins.Sprite.Cnds.CompareX,
